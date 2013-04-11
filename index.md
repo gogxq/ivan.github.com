@@ -6,7 +6,7 @@ tagline: About reading,thinking,travel and all trip of my life
 {% include JB/setup %}
 
 
-## ×îĞÂÕÂ£º
+## The Newest Posts
 
 <ul class="posts">
   {% for post in site.posts %}
